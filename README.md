@@ -47,6 +47,7 @@ Geography Analysis → Churn by France, Germany, Spain (Germany highest at 32%).
 Segmentation → Risky groups by Age + Balance + Activity (Inactive & High Balance most churned).
 
 Insights & Recommendations → Key findings and retention strategies.
+![image alt](https://github.com/biswajit8167/bank-customer-churn-analysis/blob/d93533baf0ac5c305d0413b8e1f7428493642080/Screenshot%20(118).png)
 
 🔹 Key Insights
 
